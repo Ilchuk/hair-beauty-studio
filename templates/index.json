@@ -1,0 +1,360 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_XeATay": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nK6cAT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luxury Slavic Hair Extensions",
+            "heading_size": "h2"
+          }
+        },
+        "buttons_rUFCbK": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book Your Free Consultation",
+            "button_link_1": "shopify://pages/contact",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nK6cAT",
+        "buttons_rUFCbK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/k8-HF19cpvy-Dw-unsplash.jpg",
+        "image_2": "shopify://shop_images/MGFsl_vo2xIaCHvr2qpM4H9b3kJgJY2pEjuEaCKx0YrZi3-1cy2eUxA-GCqPAQG3Y3P3hyLpySpsEB3l_PuzCntT.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "accent-2",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_KefN34": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_f4yjXk": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_f4yjXk"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "<strong>Extensions made with heart — flawless, natural, and truly you</strong>",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 56,
+        "padding_bottom": 32
+      }
+    },
+    "rich_text_y3ARKE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tedcaV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Extensions made with heart — flawless, natural, and truly you</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_KqNyNy": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>All kinds of hair extensions — designed to highlight your beauty and femininity</em></p>"
+          }
+        },
+        "button_bQUjyp": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tedcaV",
+        "text_KqNyNy",
+        "button_bQUjyp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_ieznDB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_k7faTJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/giorgio-trovato-XQlRnx0nfAs-unsplash.jpg",
+            "image_overlay_opacity": 30,
+            "heading": "Hair Extension Studio & Slavic Hair Shop in Melbourne",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "EXPLORE",
+            "link": "shopify://collections",
+            "button_style_secondary": true,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "slide_k7faTJ"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_with_text_tHLK4K": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_K4wzmN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Melbourne’s Luxury Hair Extension & Slavic Hair Studio",
+            "heading_size": "h1"
+          }
+        },
+        "text_CXikhb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We put our heart into every hair extension, making it look as natural and seamless as possible.<br/>Depending on your hair growth pattern and density, we create a personalized capsule placement plan for each client.<br/>We use hypoallergenic keratin, ensuring that extensions are safe, comfortable to wear, and easy to care for every day.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wPg8H9": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_K4wzmN",
+        "text_CXikhb",
+        "button_wPg8H9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/i-1.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "zoom-in",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_jt4ggm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KCVhg8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/i-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gY7Jrz": {
+          "type": "column",
+          "settings": {
+            "title": "<em>All kinds of hair extensions — designed to highlight your beauty and femininity</em>",
+            "text": "<p></p><p>We put our heart into every hair extension, making it look as natural and seamless as possible.<br/><br/>Depending on your hair growth pattern and density, we create a personalized capsule placement plan for each client.<br/><br/>We use hypoallergenic keratin, ensuring that extensions are safe, comfortable to wear, and easy to care for every day.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_KCVhg8",
+        "column_gY7Jrz"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "collection": "all",
+        "products_to_show": 4,
+        "title": "Latest Hair Arrivals",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "link",
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_9yBqx9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6Hbi8U": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Our Hair Extension Studio",
+            "heading_size": "h1"
+          }
+        },
+        "text_8PwPPR": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong> Hair Beauty Studio</strong> is a professional studio specializing in safe micro-capsule hair extensions.<br/>We work with the hot Italian keratin technique, with no extra charges for color matching.<br/>Donor strands are carefully selected to match your natural hair in texture, shade, and length.<br/>This is a safe method without glue or thermal damage to your own hair.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Azxd3c": {
+          "type": "button",
+          "settings": {
+            "button_label": "WhatsApp Consultation",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Hbi8U",
+        "text_8PwPPR",
+        "button_Azxd3c"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/a294af509ad889011341bf4f5bb96068.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_CKG9Xh": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Book Free Consultation",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_XeATay",
+    "multicolumn_KefN34",
+    "rich_text_y3ARKE",
+    "slideshow_ieznDB",
+    "image_with_text_tHLK4K",
+    "multicolumn_jt4ggm",
+    "featured_collection",
+    "image_with_text_9yBqx9",
+    "contact_form_CKG9Xh"
+  ]
+}

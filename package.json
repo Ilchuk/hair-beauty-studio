@@ -1,0 +1,21 @@
+{
+  "name": "hair-beauty-studio",
+  "version": "1.0.0",
+  "description": "Hair Beauty Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "tailwindcss -i ./assets/tailwind.css -o ./assets/theme.css --minify",
+    "watch:css": "tailwindcss -i ./assets/tailwind.css -o ./assets/theme.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6"
+  }
+}
