@@ -6,6 +6,16 @@
   isolation: isolate;
 }
 
+h2.banner__heading {
+  margin-bottom: 0;
+  font-size: 32px;
+  color: #c88a5f;
+}
+.rich-text__heading,
+.image-with-text__heading  {
+  font-size: 32px;
+}
+
 .banner__box {
   text-align: center;
 }
@@ -417,6 +427,7 @@
   .banner--stacked .banner__box {
     width: 100%;
   }
+  
 }
 
 @media screen and (min-width: 750px) {
@@ -425,16 +436,20 @@
     max-width: 71rem;
     min-width: 45rem;
   }
+  .banner__heading,
+  .rich-text__heading,
+  .image-with-text__heading {
+    font-size: 42px;
+  }
 }
 
 @media screen and (min-width: 1400px) {
   .banner__box {
     max-width: 90rem;
   }
-}
-
-.banner__heading {
-  margin-bottom: 0;
+  .page-width {
+    padding: 0 5rem;
+  }
 }
 
 .banner__box .banner__heading + * {
