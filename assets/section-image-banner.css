@@ -8,12 +8,9 @@
 
 h2.banner__heading {
   margin-bottom: 0;
-  font-size: 32px;
-  color: #c88a5f;
 }
 .rich-text__heading,
 .image-with-text__heading  {
-  font-size: 32px;
 }
 
 .banner__box {
@@ -441,6 +438,12 @@ h2.banner__heading {
   .image-with-text__heading {
     font-size: 42px;
   }
+}
+
+.banner__heading,
+.rich-text__heading,
+.image-with-text__heading {
+  font-size: 32px;
 }
 
 @media screen and (min-width: 1400px) {

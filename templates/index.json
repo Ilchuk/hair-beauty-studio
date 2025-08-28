@@ -16,14 +16,14 @@
           "type": "heading",
           "settings": {
             "heading": "Luxury Slavic Hair Extensions",
-            "heading_size": "h2"
+            "heading_size": "h0"
           }
         },
         "buttons_rUFCbK": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Book Your Free Consultation",
-            "button_link_1": "shopify://pages/contact",
+            "button_link_1": "https://wa.me/61431713687",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -38,9 +38,9 @@
       "settings": {
         "image": "shopify://shop_images/k8-HF19cpvy-Dw-unsplash.jpg",
         "image_2": "shopify://shop_images/MGFsl_vo2xIaCHvr2qpM4H9b3kJgJY2pEjuEaCKx0YrZi3-1cy2eUxA-GCqPAQG3Y3P3hyLpySpsEB3l_PuzCntT.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 40,
         "image_height": "large",
-        "image_behavior": "none",
+        "image_behavior": "fixed",
         "desktop_content_position": "middle-center",
         "desktop_content_alignment": "center",
         "show_text_box": false,
@@ -121,10 +121,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 32,
+        "padding_bottom": 44
       }
     },
     "slideshow_ieznDB": {
@@ -134,12 +134,12 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/giorgio-trovato-XQlRnx0nfAs-unsplash.jpg",
-            "image_overlay_opacity": 30,
+            "image_overlay_opacity": 50,
             "heading": "Hair Extension Studio & Slavic Hair Shop in Melbourne",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "EXPLORE",
-            "link": "shopify://collections",
+            "link": "https://wa.me/61431713687",
             "button_style_secondary": true,
             "show_text_box": false,
             "box_align": "middle-center",
@@ -194,6 +194,7 @@
         "text_CXikhb",
         "button_wPg8H9"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/i-1.webp",
@@ -207,6 +208,163 @@
         "mobile_content_alignment": "left",
         "section_color_scheme": "",
         "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_9yBqx9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6Hbi8U": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Our Hair Extension Studio",
+            "heading_size": "h1"
+          }
+        },
+        "text_8PwPPR": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong> Hair Beauty Studio</strong> is a professional studio specializing in safe micro-capsule hair extensions.<br/>We work with the hot Italian keratin technique, with no extra charges for color matching.<br/>Donor strands are carefully selected to match your natural hair in texture, shade, and length.<br/>This is a safe method without glue or thermal damage to your own hair.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Azxd3c": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6Hbi8U",
+        "text_8PwPPR",
+        "button_Azxd3c"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/a294af509ad889011341bf4f5bb96068.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_ztnYgp": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<!-- Elfsight Appointment Booking | Untitled Appointment Booking -->\n<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-59025404-e308-4a08-a147-b8caa12d23de\" data-elfsight-app-lazy></div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_fhcKri": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aCegWf": {
+          "type": "heading",
+          "settings": {
+            "heading": "About the Hair Extensions Studio",
+            "heading_size": "h1"
+          }
+        },
+        "text_nPna36": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hair Beauty Studio is a hair extension studio specializing in safe micro-keratin bonding using the hot fusion technique with premium Italian keratin. We offer customized donor strands matched perfectly to your hair’s structure, shade, and length — with no extra charges for coloring.</p><p>This method is glue-free and minimizes heat exposure, making it safe for your natural hair. </p><p>For us, hair extensions are more than just a service — it’s our passion. We treat every client and every transformation with care and dedication.</p>"
+          }
+        },
+        "button_afhBcp": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aCegWf",
+        "text_nPna36",
+        "button_afhBcp"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "rich_text_4pXYR6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jMe8ix": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        },
+        "text_ba9Twj": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_MnwTxr": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jMe8ix",
+        "text_ba9Twj",
+        "button_MnwTxr"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-bebc4ae5-4159-445d-8478-87883b36df8b",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_zzxNYw": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<!-- Elfsight Appointment Booking | Hair Beauty Studio -->\n<script src=\"https://elfsightcdn.com/platform.js\" async></script>\n<div class=\"elfsight-app-59025404-e308-4a08-a147-b8caa12d23de\" data-elfsight-app-lazy></div>",
+        "color_scheme": "accent-3",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -286,49 +444,42 @@
         "padding_bottom": 40
       }
     },
-    "image_with_text_9yBqx9": {
-      "type": "image-with-text",
+    "rich_text_Jg83dR": {
+      "type": "rich-text",
       "blocks": {
-        "heading_6Hbi8U": {
+        "heading_QxFBTB": {
           "type": "heading",
           "settings": {
-            "heading": "About Our Hair Extension Studio",
+            "heading": "Contact Us",
             "heading_size": "h1"
           }
         },
-        "text_8PwPPR": {
+        "text_HfFkpX": {
           "type": "text",
           "settings": {
-            "text": "<p><strong> Hair Beauty Studio</strong> is a professional studio specializing in safe micro-capsule hair extensions.<br/>We work with the hot Italian keratin technique, with no extra charges for color matching.<br/>Donor strands are carefully selected to match your natural hair in texture, shade, and length.<br/>This is a safe method without glue or thermal damage to your own hair.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Azxd3c": {
-          "type": "button",
-          "settings": {
-            "button_label": "WhatsApp Consultation",
-            "button_link": "",
-            "button_style_secondary": false
+            "text": "<h3>Hair Beauty Studio</h3><p>Etna Street, Glen Huntly</p><p><a href=\"tel:+61 431 713 687\" target=\"_blank\" title=\"tel:+61 431 713 687\">+61 431 713 687</a><br/><a href=\"mailto:info@hairbeautystudio.net\" title=\"mailto:info@hairbeautystudio.net\">info@hairbeautystudio.net</a><br/>DM us via <a href=\"https://www.facebook.com/profile.php?id=61579235439542\" target=\"_blank\" title=\"https://www.facebook.com/profile.php?id=61579235439542\">Facebook</a> and <a href=\"https://www.instagram.com/hairbeauty.melbourne\" target=\"_blank\" title=\"https://www.instagram.com/hairbeauty.melbourne\">Instagram</a></p><h4>Opening Hours - BY APPOINTMENT ONLY</h4>"
           }
         }
       },
       "block_order": [
-        "heading_6Hbi8U",
-        "text_8PwPPR",
-        "button_Azxd3c"
+        "heading_QxFBTB",
+        "text_HfFkpX"
       ],
-      "name": "t:sections.image-with-text.presets.name",
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/a294af509ad889011341bf4f5bb96068.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "image_behavior": "none",
-        "content_layout": "no-overlap",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "mobile_content_alignment": "left",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 44
+      }
+    },
+    "custom_liquid_WewrfC": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.726264900338!2d145.0378961765296!3d-37.89008383840488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad669849d895d4b%3A0xc637966c151cfc0!2sEtna%20St%2C%20Glen%20Huntly%20VIC%203163!5e0!3m2!1sen!2sau!4v1756201002056!5m2!1sen!2sau\" width=\"100%\" height=\"600\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -336,9 +487,10 @@
     },
     "contact_form_CKG9Xh": {
       "type": "contact-form",
+      "disabled": true,
       "name": "t:sections.contact-form.presets.name",
       "settings": {
-        "heading": "Book Free Consultation",
+        "heading": "Contact Us",
         "heading_size": "h1",
         "color_scheme": "",
         "padding_top": 36,
@@ -352,9 +504,15 @@
     "rich_text_y3ARKE",
     "slideshow_ieznDB",
     "image_with_text_tHLK4K",
+    "image_with_text_9yBqx9",
+    "custom_liquid_ztnYgp",
+    "rich_text_fhcKri",
+    "rich_text_4pXYR6",
+    "custom_liquid_zzxNYw",
     "multicolumn_jt4ggm",
     "featured_collection",
-    "image_with_text_9yBqx9",
+    "rich_text_Jg83dR",
+    "custom_liquid_WewrfC",
     "contact_form_CKG9Xh"
   ]
 }

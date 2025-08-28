@@ -2140,12 +2140,19 @@ input[type='checkbox'] {
   }
 }
 
-.utility-bar .list-social__item .icon {
-  scale: 1;
+.utility-bar .list-social__item .icon,
+.footer__content-bottom .list-social__item .icon{
+  scale: 1.2;
 }
 .header-social-icons {
   position: absolute;
   left: auto;
+}
+small.copyright__content+ .copyright__content {
+  display: none;
+}
+.rich-text__text h4 {
+  margin-top: 15px;
 }
 
 @media screen and (max-width: 989px) {

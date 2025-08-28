@@ -12,7 +12,7 @@
     "logo_width": 190,
     "type_header_font": "century_gothic_i7",
     "heading_scale": 115,
-    "type_body_font": "barlow_n4",
+    "type_body_font": "raleway_n4",
     "body_scale": 100,
     "page_width": 1600,
     "spacing_sections": 0,
@@ -20,9 +20,9 @@
     "spacing_grid_vertical": 36,
     "animations_reveal_on_scroll": false,
     "animations_hover_elements": "default",
-    "buttons_border_thickness": 0,
+    "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 4,
+    "buttons_radius": 30,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -197,10 +197,10 @@
         "settings": {
           "background": "#38373a",
           "background_gradient": "",
-          "text": "#f1f1ee",
-          "button": "#f1f1ee",
+          "text": "#d9d8d1",
+          "button": "#d9d8d1",
           "button_label": "#38373a",
-          "secondary_button_label": "#f1f1ee",
+          "secondary_button_label": "#c88a5f",
           "shadow": "#121212"
         }
       },
@@ -212,6 +212,28 @@
           "button": "#282828",
           "button_label": "#ffffff",
           "secondary_button_label": "#282828",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-7db3fb10-be6e-405b-98bd-b63711a7e50f": {
+        "settings": {
+          "background": "#31353d",
+          "background_gradient": "",
+          "text": "#d9d8d1",
+          "button": "#d9d8d1",
+          "button_label": "#39464e",
+          "secondary_button_label": "#fbbcb1",
+          "shadow": "#fbbcb1"
+        }
+      },
+      "scheme-bebc4ae5-4159-445d-8478-87883b36df8b": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#c88a5f",
+          "button": "#d9d8d1",
+          "button_label": "#2c2a2b",
+          "secondary_button_label": "#d9d8d1",
           "shadow": "#121212"
         }
       }
